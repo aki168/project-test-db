@@ -1,5 +1,5 @@
 {
-  "name": "json-server-vercel",
+  "name": "project-test-db",
   "version": "1.0.0",
   "description": "Deploy JSON Server to Vercel",
   "main": "server.js",
