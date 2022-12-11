@@ -1,6 +1,15 @@
 {"users": [
   { 
+    "id": 0, 
+    "role": "admin",
+    "name": "管理員", 
+    "mail": "admin@mail.com", 
+    "password":"admin999",
+    "spotList": []
+  },
+  { 
     "id": 1, 
+    "role": "user",
     "name": "小明", 
     "mail": "ming@mail.com", 
     "password":"ming888",
